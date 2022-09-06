@@ -1,4 +1,4 @@
-package com.example.write.security;
+package com.example.write.configuration;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
